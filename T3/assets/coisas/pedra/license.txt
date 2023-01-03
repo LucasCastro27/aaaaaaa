@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized stones props
+* source:	https://sketchfab.com/3d-models/stylized-stones-props-5aacb1ff1dae459c9a3afb5098f7a571
+* author:	Sereda (https://sketchfab.com/delete5020)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized stones props" (https://sketchfab.com/3d-models/stylized-stones-props-5aacb1ff1dae459c9a3afb5098f7a571) by Sereda (https://sketchfab.com/delete5020) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
